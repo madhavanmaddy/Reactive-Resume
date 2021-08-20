@@ -17,9 +17,6 @@
     "ui": {
       "enabled": true
     }
-  },
-  "functions": {
-    "source": "functions",
-    "runtime": "nodejs12"
   }
+  
 }
